@@ -23,3 +23,8 @@ Use at least 5 different HTML elements.
 Ensure semantic correctness.
 
 Good luck and happy coding! 🚀💻
+
+
+
+
+my deployment link ;;; https://blogposts-942ed9.netlify.app/
